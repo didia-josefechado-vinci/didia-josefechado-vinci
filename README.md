@@ -32,7 +32,7 @@ I'm a 23-year-old full stack developer who loves to sprinkle a bit of magic (and
 
 - 💡 Forever curious: DevOps? Quantum Computing? Art? Yes, please!
 - 💪 Gym session = happy Didia
-- 🎸 Guitar solos & singing (sometimes both at once!)
+- 🎸 Guitar solos
 - 🎮 Video game enthusiast & proud nerd
 - ✂️ Love all things crafty and hands-on
 
