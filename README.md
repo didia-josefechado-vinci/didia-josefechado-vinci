@@ -38,8 +38,8 @@ I'm a 23-year-old full stack developer who loves to sprinkle a bit of magic (and
 
 ### 🫶 Let's Be Friends!
 
-- [LinkedIn](your-linkedin-url)  
-- [Instagram](your-instagram-url)  
+- [LinkedIn](https://www.linkedin.com/in/didia-jos%C3%A9-fechado)  
+- [Instagram](https://www.instagram.com/didia.f_/)  
 
 ---
 
