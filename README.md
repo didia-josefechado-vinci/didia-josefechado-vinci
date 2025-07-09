@@ -1,6 +1,5 @@
 ## Hi, I'm Didia! ✨🌸
 
-Welcome to my digital playground!  
 I'm a 23-year-old full stack developer who loves to sprinkle a bit of magic (and a lot of code) everywhere I go 💖
 
 ### 💻 Tech Stack Lover
