@@ -48,6 +48,5 @@ I'm a 23-year-old full stack developer who loves to sprinkle a bit of magic (and
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=didia-josefechado-vinci&show_icons=true&theme=tokyonight&hide_border=true" alt="Didia's GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=didia-josefechado-vinci&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didia-josefechado-vinci&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
